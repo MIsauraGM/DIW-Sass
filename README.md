@@ -1,5 +1,7 @@
 # DIW-Sass
 
+Instálate la extensión de Live Sass Compiler en tu entorno de Visual Studio Code y clónate este repositorio para poder realizar las siguientes cuestiones. Las soluciones estarán disponibles en la rama "solution".
+
 ## EJERCICIO 1
 
 Desde la carpeta *ej1* desarrolla los siguientes puntos:
