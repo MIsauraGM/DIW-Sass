@@ -2,7 +2,7 @@
 
 ## EJERCICIO 1
 
-Desde la carpeta sass-ej1 desarrolla los siguientes puntos:
+Desde la carpeta *ej1* desarrolla los siguientes puntos:
 * Incluye 2 archivos HTML llamados index.html e index_scss.htm que incluyan un h1 y un listado con enlaces dentro.
 * Incluye dos carpetas llamadas CSS y SCSS.
 * Dentro de cada carpeta crearemos los archivos style.css y style_scss.scss, respectivamente.
