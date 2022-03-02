@@ -52,5 +52,5 @@ Utilizando como plantilla el código HTML propuesto en la carpeta ej3:
     * Los iconos del footer tendrán un ancho de 3em, estarán centrados y en línea, con una cierta separación entre ellos.
     * La letra del párrafo p será un 80% respecto de la del cuerpo.
 
-##EJERCICIO 4:
+## EJERCICIO 4:
 Haz una copia del ejercicio, añádele Bootstrap 4 y crea un menú con sub-niveles y sus estilos necesarios.
